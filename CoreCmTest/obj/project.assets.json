@@ -1,0 +1,137 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "L01_Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/L01_Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/L01_Domain.dll": {}
+        }
+      },
+      "L02_Persistence/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "L01_Domain": "1.0.0",
+          "L03_FakeDB": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/L02_Persistence.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/L02_Persistence.dll": {}
+        }
+      },
+      "L03_FakeDB/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/L03_FakeDB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/L03_FakeDB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L01_Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/L01_Domain.csproj",
+      "msbuildProject": "../Domain/L01_Domain.csproj"
+    },
+    "L02_Persistence/1.0.0": {
+      "type": "project",
+      "path": "../Persistence/L02_Persistence.csproj",
+      "msbuildProject": "../Persistence/L02_Persistence.csproj"
+    },
+    "L03_FakeDB/1.0.0": {
+      "type": "project",
+      "path": "../FakeDB/L03_FakeDB.csproj",
+      "msbuildProject": "../FakeDB/L03_FakeDB.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "L01_Domain >= 1.0.0",
+      "L02_Persistence >= 1.0.0",
+      "L03_FakeDB >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\juanp\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\CoreCmTest\\CoreCmTest.csproj",
+      "projectName": "CoreCmTest",
+      "projectPath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\CoreCmTest\\CoreCmTest.csproj",
+      "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\CoreCmTest\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\juanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Domain\\L01_Domain.csproj": {
+              "projectPath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Domain\\L01_Domain.csproj"
+            },
+            "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\FakeDB\\L03_FakeDB.csproj": {
+              "projectPath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\FakeDB\\L03_FakeDB.csproj"
+            },
+            "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Persistence\\L02_Persistence.csproj": {
+              "projectPath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Persistence\\L02_Persistence.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
