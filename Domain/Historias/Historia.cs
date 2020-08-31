@@ -6,6 +6,9 @@ using System.Text;
 
 namespace L01_Domain.Historias
 {
+    /// <summary>
+    /// Mi primera clase de historia :)
+    /// </summary>
     public class Historia
     {
 
