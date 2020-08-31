@@ -34,5 +34,10 @@ namespace L01_Domain.Paciente
         public GradoEscolaridad GradoEscolaridad{ get; set; }
         public TipoSanguineo TipoSanguineo { get; set; }
         public string EPS { get; set; }
+
+        public Paciente()
+        {
+            TipoSexo = TipoSexo.Hombre;
+        }
     }
 }

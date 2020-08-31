@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Domain\\L01_Domain.csproj": {}
+    "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Domain\\L01_Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Domain\\L01_Domain.csproj": {
+    "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Domain\\L01_Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Domain\\L01_Domain.csproj",
+        "projectUniqueName": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Domain\\L01_Domain.csproj",
         "projectName": "L01_Domain",
-        "projectPath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Domain\\L01_Domain.csproj",
+        "projectPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Domain\\L01_Domain.csproj",
         "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

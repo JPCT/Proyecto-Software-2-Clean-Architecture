@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UG0zsnF+ljK4tLe9wPoGxvm+rBamdescSWE0XFHBVw3aSkFb7vPor9Yi/fjKEGNkCrc5EnL6zsEcx3SJYlZRdA==",
+  "dgSpecHash": "7FOObMl7M304rRI5v1q+q6GtltC07LGP5qX/i0hxxPLQGcrdC8S0KGLY0gXb/6kFpvdEHSnwBSd0BrcYbNnraw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Infrastructure\\L02_Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Infrastructure\\L02_Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

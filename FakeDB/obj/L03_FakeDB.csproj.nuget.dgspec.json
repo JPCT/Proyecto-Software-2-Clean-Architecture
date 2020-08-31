@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\FakeDB\\L03_FakeDB.csproj": {}
+    "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\FakeDB\\L03_FakeDB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\FakeDB\\L03_FakeDB.csproj": {
+    "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\FakeDB\\L03_FakeDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\FakeDB\\L03_FakeDB.csproj",
+        "projectUniqueName": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\FakeDB\\L03_FakeDB.csproj",
         "projectName": "L03_FakeDB",
-        "projectPath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\FakeDB\\L03_FakeDB.csproj",
+        "projectPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\FakeDB\\L03_FakeDB.csproj",
         "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\FakeDB\\obj\\",
+        "outputPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\FakeDB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

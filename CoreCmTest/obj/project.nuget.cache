@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qgCLS5TXKTGEOwgXB5dZxjibxK5CvEpus3JtS7EWk40VIoEnBt/kiDrjmEp/nc33okBbsRHgTIAeg/5iDRAXaA==",
+  "dgSpecHash": "XRgIRfKCvTPwz4gXaBAOEhYgXvcsPscjNJr5Fs0Jw9RRg2xeWWK0ipkn4GRxW1t4lMyOjS9LvxkazXvtWPteFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\CoreCmTest\\CoreCmTest.csproj",
+  "projectFilePath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\CoreCmTest\\CoreCmTest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

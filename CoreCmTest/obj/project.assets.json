@@ -70,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\CoreCmTest\\CoreCmTest.csproj",
+      "projectUniqueName": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\CoreCmTest\\CoreCmTest.csproj",
       "projectName": "CoreCmTest",
-      "projectPath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\CoreCmTest\\CoreCmTest.csproj",
+      "projectPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\CoreCmTest\\CoreCmTest.csproj",
       "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\CoreCmTest\\obj\\",
+      "outputPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\CoreCmTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -95,14 +95,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Domain\\L01_Domain.csproj": {
-              "projectPath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Domain\\L01_Domain.csproj"
+            "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Domain\\L01_Domain.csproj": {
+              "projectPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Domain\\L01_Domain.csproj"
             },
-            "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\FakeDB\\L03_FakeDB.csproj": {
-              "projectPath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\FakeDB\\L03_FakeDB.csproj"
+            "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\FakeDB\\L03_FakeDB.csproj": {
+              "projectPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\FakeDB\\L03_FakeDB.csproj"
             },
-            "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Persistence\\L02_Persistence.csproj": {
-              "projectPath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Persistence\\L02_Persistence.csproj"
+            "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Persistence\\L02_Persistence.csproj": {
+              "projectPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Persistence\\L02_Persistence.csproj"
             }
           }
         }

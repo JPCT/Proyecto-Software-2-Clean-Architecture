@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RgXcq14nwu5Gbd0WXN0OflqepLAqJ3MV6YFEyXRUMGYiEz/IFQdphpe/bdxYXqLiaXp1c9Xb7cxD9twGnpaaAQ==",
+  "dgSpecHash": "dBPsZ1DfhU7O5jWOQLpccb30NBkobzL8Q+wbY8Yau/F1YAtvC9/dW07xtDHf2cZOrtIsl+m5yFX52MCBYEYWmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Persistence\\L02_Persistence.csproj",
+  "projectFilePath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Persistence\\L02_Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

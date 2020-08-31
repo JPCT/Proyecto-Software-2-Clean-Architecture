@@ -87,11 +87,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Services\\L01_Services.csproj",
+      "projectUniqueName": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Services\\L01_Services.csproj",
       "projectName": "L01_Services",
-      "projectPath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Services\\L01_Services.csproj",
+      "projectPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Services\\L01_Services.csproj",
       "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Services\\obj\\",
+      "outputPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -112,8 +112,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Application\\L01_Application.csproj": {
-              "projectPath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Application\\L01_Application.csproj"
+            "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Application\\L01_Application.csproj": {
+              "projectPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Application\\L01_Application.csproj"
             }
           }
         }

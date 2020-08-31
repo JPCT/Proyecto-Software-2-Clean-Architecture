@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oL1p0vaTvdLeDxybXRMQF/E5F0xBsIxox1YDvA7p1v8H1CQAf4IPzNz9iJ7AhRCx0eewET/S0jT9QQ2zCnQFkw==",
+  "dgSpecHash": "SE17fvk8GBGPxgd5dPFzcyWUSGUm4amKzgyPlHeTT/MrPDXxVjdoaROXZROYtXyBB/omXxg7NnMD0AhN7ieiAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Services\\L01_Services.csproj",
+  "projectFilePath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Services\\L01_Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

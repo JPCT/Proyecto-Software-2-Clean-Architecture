@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Infrastructure\\L02_Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Infrastructure\\L02_Infrastructure.csproj",
       "projectName": "L02_Infrastructure",
-      "projectPath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Infrastructure\\L02_Infrastructure.csproj",
+      "projectPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Infrastructure\\L02_Infrastructure.csproj",
       "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juanp\\Source\\Repos\\aplicacion-de-prueba-clean-architecture-quarantinecoders\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
