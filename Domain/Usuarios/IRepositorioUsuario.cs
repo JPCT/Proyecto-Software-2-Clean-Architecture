@@ -7,6 +7,6 @@ namespace L01_Domain.Usuarios
 {
     public interface IRepositorioUsuario
     {
-        Usuario GetUsuario(string idUsuario);
+        Usuario buscarUsuario(string idUsuario);
     }
 }

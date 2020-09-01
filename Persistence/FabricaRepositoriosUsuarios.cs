@@ -5,7 +5,7 @@ using System.Text;
 
 namespace L02_Persistence
 {
-    class FabricaRepositoriosUsuarios
+    public class FabricaRepositoriosUsuarios
     {
         public static IRepositorioUsuario CrearRepositorioPacientes()
         {

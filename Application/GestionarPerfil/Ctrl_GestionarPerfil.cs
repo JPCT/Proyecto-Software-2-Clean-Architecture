@@ -11,13 +11,22 @@ namespace L01_Application.GestionarPerfil
 {
     class Ctrl_GestionarPerfil
     {
-        public void actualizarPerfil(string nombre,string apellido,DateTime fechaNac,Multimedia fotoPerfil,
+        public bool actualizarPerfil(string id,string nombre,string apellido,DateTime fechaNac,Multimedia fotoPerfil,
                                     TipoSexo tipoSexo,string correoElectronico,string ciudad,string pais)
+        {
+            Usuario usuario = buscarUsuario(id);
+
+            return true;
+        }
+        public Usuario buscarUsuario(string idUsuario)
         {
             try
             {
-                Usuario usuario = RepositorioUsuarioFake.GetUsuario(int.Parse(idPaciente));
-                return System.Text.Json.JsonSerializer.Serialize(paciente);
+                if (idUsuario is null)
+                    return null;
+                IRepositorioUsuario repoU = FabricaRepositoriosUsuarios.CrearRepositorioPacientes();
+                Usuario usuario = repoU.buscarUsuario(idUsuario);
+                return usuario;
             }
             catch (UsuarioException ex)
             {

@@ -8,7 +8,7 @@ namespace L02_Persistence
 {
     public class RepositorioUsuarioFake:IRepositorioUsuario
     {
-        public Usuario GetUsuario(string idUsuario)
+        public Usuario buscarUsuario(string idUsuario)
         {
             List<Usuario> usuarios;
 
