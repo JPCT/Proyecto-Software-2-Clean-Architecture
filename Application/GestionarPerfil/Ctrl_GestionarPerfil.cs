@@ -15,7 +15,7 @@ namespace L01_Application.GestionarPerfil
                                     TipoSexo tipoSexo,string correoElectronico,string ciudad,string pais)
         {
             Usuario usuario = buscarUsuario(id);
-
+            //Quede en este punto, aquí debo seguir con la actualización correspondiente del usuario
             return true;
         }
         public Usuario buscarUsuario(string idUsuario)
