@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Persistence\\L02_Persistence.csproj": {}
+    "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\Persistence\\L02_Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Domain\\L01_Domain.csproj": {
+    "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\Domain\\L01_Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Domain\\L01_Domain.csproj",
+        "projectUniqueName": "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\Domain\\L01_Domain.csproj",
         "projectName": "L01_Domain",
-        "projectPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Domain\\L01_Domain.csproj",
-        "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\Domain\\L01_Domain.csproj",
+        "packagesPath": "C:\\Users\\juang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\juanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+          "C:\\Users\\juang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -61,80 +56,18 @@
         }
       }
     },
-    "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\FakeDB\\L03_FakeDB.csproj": {
+    "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\FakeDB\\L03_FakeDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\FakeDB\\L03_FakeDB.csproj",
+        "projectUniqueName": "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\FakeDB\\L03_FakeDB.csproj",
         "projectName": "L03_FakeDB",
-        "projectPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\FakeDB\\L03_FakeDB.csproj",
-        "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\FakeDB\\obj\\",
+        "projectPath": "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\FakeDB\\L03_FakeDB.csproj",
+        "packagesPath": "C:\\Users\\juang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\FakeDB\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\juanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Persistence\\L02_Persistence.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Persistence\\L02_Persistence.csproj",
-        "projectName": "L02_Persistence",
-        "projectPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Persistence\\L02_Persistence.csproj",
-        "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Persistence\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\juanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+          "C:\\Users\\juang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -146,11 +79,67 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Domain\\L01_Domain.csproj": {
-                "projectPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Domain\\L01_Domain.csproj"
+              "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\Domain\\L01_Domain.csproj": {
+                "projectPath": "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\Domain\\L01_Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\Persistence\\L02_Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\Persistence\\L02_Persistence.csproj",
+        "projectName": "L02_Persistence",
+        "projectPath": "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\Persistence\\L02_Persistence.csproj",
+        "packagesPath": "C:\\Users\\juang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\Domain\\L01_Domain.csproj": {
+                "projectPath": "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\Domain\\L01_Domain.csproj"
               },
-              "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\FakeDB\\L03_FakeDB.csproj": {
-                "projectPath": "C:\\Users\\juanp\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\FakeDB\\L03_FakeDB.csproj"
+              "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\FakeDB\\L03_FakeDB.csproj": {
+                "projectPath": "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\FakeDB\\L03_FakeDB.csproj"
               }
             }
           }

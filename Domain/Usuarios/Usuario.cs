@@ -8,16 +8,17 @@ namespace L01_Domain.Usuarios
 {
     public class Usuario
     {
-        private string id { get; set; }
-        private string nombre { get; set; }
-        private string apellido { get; set; }
-        private DateTime fechaNacimiento { get; set; }
-        private Multimedia fotoPerfil { get; set; }
-        private TipoSexo tipoSexo { get; set; }
-        private string correoElectronico { get; set; }
-        private string ciudad { get; set; }
-        private string pais { get; set; }
-        private TipoRol rol { get; set; }
+        public string id { get; set; }
+        public string nombre { get; set; }
+        public string apellido { get; set; }
+        public DateTime fechaNacimiento { get; set; }
+        public Multimedia fotoPerfil { get; set; }
+        public TipoSexo tipoSexo { get; set; }
+        public string correoElectronico { get; set; }
+        public string ciudad { get; set; }
+        public string pais { get; set; }
+        public TipoRol rol { get; set; }
+
 
         public Usuario(string id, string nombre, string apellido, DateTime fechaNacimiento, Multimedia fotoPerfil, TipoSexo tipoSexo, string correoElectronico, string ciudad, string pais, TipoRol rol)
         {
@@ -31,6 +32,10 @@ namespace L01_Domain.Usuarios
             this.ciudad = ciudad;
             this.pais = pais;
             this.rol = rol;
+        }
+        public Usuario()
+        {
+
         }
     }
 }
