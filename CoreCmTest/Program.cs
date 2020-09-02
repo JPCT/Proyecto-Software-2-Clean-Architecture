@@ -30,6 +30,17 @@ namespace CoreCmTest
                 Console.WriteLine("ERROR-->"+ex.Message);
             }
 
+            /* Test Controladora para actualizar Usuario */
+            try
+            {
+                
+
+            }
+            catch (UsuarioException ex)
+            {
+                Console.WriteLine("ERROR-->" + ex.Message);
+            }
+
 
 
 
