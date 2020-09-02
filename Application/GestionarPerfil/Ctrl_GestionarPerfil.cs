@@ -15,7 +15,25 @@ namespace L01_Application.GestionarPerfil
                                     TipoSexo tipoSexo,string correoElectronico,string ciudad,string pais)
         {
             Usuario usuario = buscarUsuario(id);
-            //Quede en este punto, aquí debo seguir con la actualización correspondiente del usuario
+
+            usuario.nombre = (nombre != null) ? nombre : usuario.nombre;
+            usuario.apellido = (apellido != null) ? apellido : usuario.apellido;
+            usuario.fechaNacimiento = (fechaNac != null) ? fechaNac : usuario.fechaNacimiento;
+            usuario.fotoPerfil = (fotoPerfil != null) ? fotoPerfil : usuario.fotoPerfil;
+            usuario.tipoSexo = (tipoSexo != null) ? tipoSexo : usuario.tipoSexo;
+            usuario.correoElectronico = (correoElectronico != null) ? correoElectronico : usuario.correoElectronico;
+            usuario.ciudad = (ciudad != null) ? ciudad : usuario.ciudad;
+            usuario.pais = (pais != null) ? pais : usuario.pais;
+
+            try
+            {
+                IRepositorioUsuario repoU = FabricaRepositoriosUsuarios.CrearRepositorioPacientes();
+                repoU.actualizarPerfilUsuario(usuario);
+            }
+            catch(ActualizarUsuarioException ex)
+            {
+                throw ex;
+            }
             return true;
         }
         public Usuario buscarUsuario(string idUsuario)

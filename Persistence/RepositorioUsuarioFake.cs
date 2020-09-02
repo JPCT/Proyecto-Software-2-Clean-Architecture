@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using static L03_FakeDB.TablaUsuario;
 
 namespace L02_Persistence
 {
@@ -22,6 +23,33 @@ namespace L02_Persistence
                 throw new UsuarioException("El Usuario con Id-->" + idUsuario + ", no esta registrado");
             }
             return usuario;
+        }
+        public bool actualizarPerfilUsuario(Usuario usuario)
+        {
+            try
+            {
+                List<AtributosUsuario> usuarios;
+                usuarios = L03_FakeDB.TablaUsuario.getTablaUsuarios();
+
+                for(int i = 0; i < usuarios.Count; i++)
+                {
+                    if(usuarios[i].id == usuario.id)
+                    {
+                        usuarios[i].nombre = usuario.nombre;
+                        usuarios[i].apellido = usuario.apellido;
+                        usuarios[i].fotoPerfil = usuario.fotoPerfil;
+                        usuarios[i].tipoSexo = usuario.tipoSexo;
+                        usuarios[i].correoElectronico = usuario.correoElectronico;
+                        usuarios[i].ciudad = usuario.ciudad;
+                        usuarios[i].pais = usuario.pais;
+                    }
+                }
+            }
+            catch
+            {
+                throw new ActualizarUsuarioException("Hubo un error al actualizar el perfil");
+            }
+            return true;
         }
     }
 }

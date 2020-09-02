@@ -19,6 +19,7 @@ namespace L01_Domain.Usuarios
         public string pais { get; set; }
         public TipoRol rol { get; set; }
 
+
         public Usuario(string id, string nombre, string apellido, DateTime fechaNacimiento, Multimedia fotoPerfil, TipoSexo tipoSexo, string correoElectronico, string ciudad, string pais, TipoRol rol)
         {
             this.id = id;

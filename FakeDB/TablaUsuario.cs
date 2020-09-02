@@ -9,8 +9,8 @@ namespace L03_FakeDB
 {
     public static class TablaUsuario
     {
-        private static readonly List<AtributosUsuario> usuarios = new List<AtributosUsuario>();
-        class AtributosUsuario
+        private static List<AtributosUsuario> usuarios = new List<AtributosUsuario>();
+        public class AtributosUsuario
         {
             public string id { get; set; }
             public string nombre { get; set; }
@@ -49,7 +49,6 @@ namespace L03_FakeDB
             for (int i = 0; i < numeroUsuarios; i++)
             {
                 usuarios.Add(new AtributosUsuario(i));
-
             }
         }
         public static String ToJSON()   
@@ -64,6 +63,10 @@ namespace L03_FakeDB
             };
 
             return System.Text.Json.JsonSerializer.Serialize(usuarios, options);
+        }
+        public static List<AtributosUsuario> getTablaUsuarios()
+        {
+            return usuarios;
         }
     }
 

@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CoreCmTest"
+    "\\CoreCmTest",
+    "\\CoreCmTest\\bin\\Debug",
+    "\\CoreCmTest\\bin\\Debug\\netcoreapp3.1",
+    "\\CoreCmTest\\bin\\Release",
+    "\\CoreCmTest\\bin\\Release\\netcoreapp3.1",
+    "\\CoreCmTest\\obj\\Debug\\netcoreapp3.1",
+    "\\CoreCmTest\\obj\\Release\\netcoreapp3.1"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\CoreCmTest\\CoreCmTest.csproj",
   "PreviewInSolutionExplorer": false
 }

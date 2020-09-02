@@ -14,7 +14,7 @@ namespace L02_Persistence
 
             return repo switch
             {
-                "fake" => new RepositorioUsuarioFake()
+                "fake" => new RepositorioUsuarioFake(),
                 _ => null,
             };
         }
