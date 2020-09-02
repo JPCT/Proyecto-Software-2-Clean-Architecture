@@ -11,7 +11,7 @@ namespace CoreCmTest
         static void Main(string[] args)
         {
             /* Test the JSON generetion */
-            L03_FakeDB.TablaUsuario.InstanciarUsuarios(10);
+            L03_FakeDB.TablaUsuario.InstanciarUsuarios(20);
             String s = L03_FakeDB.TablaUsuario.ToJSON();
             Console.WriteLine(s);
 
@@ -33,8 +33,20 @@ namespace CoreCmTest
             /* Test Controladora para actualizar Usuario */
             try
             {
-                
+                Console.WriteLine("Indique el id del usuario a actualizar: ");
+                String idUsuario = Console.ReadLine();
+                Ctrl_GestionarPerfil controlGestionar = new Ctrl_GestionarPerfil();
 
+                //Aquí obtengo el valor anterior
+                Usuario usuario = controlGestionar.buscarUsuario(idUsuario);
+                Console.WriteLine(System.Text.Json.JsonSerializer.Serialize(usuario));
+
+                //Realizar la actualizacion
+                bool confirmacion = controlGestionar.actualizarPerfil(idUsuario,"edit", "edit", usuario.fechaNacimiento, null, 0, "edit", "edit", "edit");
+
+                //Verificar actualizacion
+                Usuario usu = controlGestionar.buscarUsuario(idUsuario);
+                Console.WriteLine(System.Text.Json.JsonSerializer.Serialize(usu));
             }
             catch (UsuarioException ex)
             {
