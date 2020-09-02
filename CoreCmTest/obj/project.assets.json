@@ -2,6 +2,20 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "L01_Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "L01_Domain": "1.0.0",
+          "L02_Persistence": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/L01_Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/L01_Application.dll": {}
+        }
+      },
       "L01_Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -42,6 +56,11 @@
     }
   },
   "libraries": {
+    "L01_Application/1.0.0": {
+      "type": "project",
+      "path": "../Application/L01_Application.csproj",
+      "msbuildProject": "../Application/L01_Application.csproj"
+    },
     "L01_Domain/1.0.0": {
       "type": "project",
       "path": "../Domain/L01_Domain.csproj",
@@ -60,6 +79,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "L01_Application >= 1.0.0",
       "L01_Domain >= 1.0.0",
       "L02_Persistence >= 1.0.0",
       "L03_FakeDB >= 1.0.0"
@@ -91,6 +111,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\Application\\L01_Application.csproj": {
+              "projectPath": "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\Application\\L01_Application.csproj"
+            },
             "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\Domain\\L01_Domain.csproj": {
               "projectPath": "C:\\Users\\juang\\Desktop\\Semestre 7\\Ing Software 2\\Proyecto\\Domain\\L01_Domain.csproj"
             },

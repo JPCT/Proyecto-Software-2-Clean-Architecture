@@ -26,13 +26,13 @@ namespace L03_FakeDB
             public AtributosUsuario(int id)
             {
                 Random random = new Random();
-                id = 10000 + id;
-                nombre = "NombrePacienteEPS" + id;
-                apellido = "ApellidosPacienteEPS" + id;
+                this.id = "" + (10000 + id);
+                nombre = "NombreUsuario " + id;
+                apellido = "ApellidosUsuario " + id;
                 fechaNacimiento = DateTime.Now;
                 fotoPerfil = new Multimedia(""+id, "foto" + id,id + "kb","url/" + id,"imagen","jpg");
                 tipoSexo = TipoSexo.Hombre;
-                correoElectronico = "paciente" + id + "@is.edu";
+                correoElectronico = "usuario" + id + "@historian.com";
                 ciudad = "ciudadUsuario " + id;
                 pais = "paisUsuario " + id;
                 rol = TipoRol.Usuario;
@@ -57,6 +57,7 @@ namespace L03_FakeDB
             {
                 InstanciarUsuarios(10);
             }
+
             var options = new System.Text.Json.JsonSerializerOptions
             {
                 WriteIndented = true
