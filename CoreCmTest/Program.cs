@@ -22,7 +22,7 @@ namespace CoreCmTest
                 String idUsuario = Console.ReadLine();
                 Ctrl_GestionarPerfil controlGestionar = new Ctrl_GestionarPerfil();
                 Usuario usuario = controlGestionar.buscarUsuario(idUsuario);
-                Console.WriteLine("ESTO ES: "+ System.Text.Json.JsonSerializer.Serialize(usuario));
+                Console.WriteLine(System.Text.Json.JsonSerializer.Serialize(usuario));
 
             }
             catch(UsuarioException ex)

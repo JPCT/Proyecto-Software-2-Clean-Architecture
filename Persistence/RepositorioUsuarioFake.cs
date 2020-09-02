@@ -20,8 +20,8 @@ namespace L02_Persistence
              * Prueba de Serialización para un Usuario
              */
             //jsonString = "[{\"id\": \"10009\",\"nombre\": \"NombreUsuario 9\",\"apellido\": \"ApellidosUsuario 9\",\"fechaNacimiento\": \"2020-09-01T21:07:24.7884632-05:00\",\"fotoPerfil\": {\"id\":\"123\",\"nombreArchivo\":\"123\",\"tamano\":\"123\",\"url\":\"123\",\"tipo\":\"123\",\"formato\":\"123\" },\"tipoSexo\": 0,\"correoElectronico\": \"usuario9@historian.com\",\"ciudad\": \"ciudadUsuario 9\",\"pais\": \"paisUsuario 9\",\"rol\": 3}]";
-            jsonString = "[{\"id\": \"10009\",\"nombre\": \"NombreUsuario 9\",\"apellido\": \"ApellidosUsuario 9\",\"fechaNacimiento\": null,\"fotoPerfil\": {\"id\":\"123\",\"nombreArchivo\":\"123\",\"tamano\":\"123\",\"url\":\"123\",\"tipo\":\"123\",\"formato\":\"123\" },\"tipoSexo\": 0,\"correoElectronico\": \"usuario9@historian.com\",\"ciudad\": \"ciudadUsuario 9\",\"pais\": \"paisUsuario 9\",\"rol\": 3}]";
-            Console.WriteLine(jsonString);
+            //jsonString = "[{\"id\": \"10009\",\"nombre\": \"NombreUsuario 9\",\"apellido\": \"ApellidosUsuario 9\",\"correoElectronico\": \"usuario9@historian.com\",\"ciudad\": \"ciudadUsuario 9\",\"pais\": \"paisUsuario 9\"}]";
+            //Console.WriteLine(jsonString);
 
             usuarios = System.Text.Json.JsonSerializer.Deserialize<List<Usuario>>(jsonString);
 

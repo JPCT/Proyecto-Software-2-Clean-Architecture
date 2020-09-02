@@ -8,6 +8,6 @@ namespace L01_Domain.Usuarios
     public interface IRepositorioUsuario
     {
         Usuario buscarUsuario(string idUsuario);
-        bool actualizarPerfilUsuario(Usuario usuario);
+        bool actualizarPerfilUsuario(Usuario idUsuario);
     }
 }

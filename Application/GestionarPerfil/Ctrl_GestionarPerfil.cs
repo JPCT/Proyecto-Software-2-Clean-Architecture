@@ -19,7 +19,7 @@ namespace L01_Application.GestionarPerfil
             usuario.nombre = (nombre != null) ? nombre : usuario.nombre;
             usuario.apellido = (apellido != null) ? apellido : usuario.apellido;
             usuario.fechaNacimiento = (fechaNac != null) ? fechaNac : usuario.fechaNacimiento;
-            //usuario.fotoPerfil = (fotoPerfil != null) ? fotoPerfil : usuario.fotoPerfil;
+            usuario.fotoPerfil = (fotoPerfil != null) ? fotoPerfil : usuario.fotoPerfil;
             usuario.tipoSexo = (tipoSexo != null) ? tipoSexo : usuario.tipoSexo;
             usuario.correoElectronico = (correoElectronico != null) ? correoElectronico : usuario.correoElectronico;
             usuario.ciudad = (ciudad != null) ? ciudad : usuario.ciudad;
