@@ -7,3 +7,11 @@ C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Infrastructure\obj\Deb
 C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Infrastructure\obj\Debug\netcoreapp3.1\L02_Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Infrastructure\obj\Debug\netcoreapp3.1\L02_Infrastructure.dll
 C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Infrastructure\obj\Debug\netcoreapp3.1\L02_Infrastructure.pdb
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Infrastructure\bin\Debug\netcoreapp3.1\L02_Infrastructure.deps.json
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Infrastructure\bin\Debug\netcoreapp3.1\L02_Infrastructure.dll
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Infrastructure\bin\Debug\netcoreapp3.1\L02_Infrastructure.pdb
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Infrastructure\obj\Debug\netcoreapp3.1\L02_Infrastructure.csprojAssemblyReference.cache
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Infrastructure\obj\Debug\netcoreapp3.1\L02_Infrastructure.AssemblyInfoInputs.cache
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Infrastructure\obj\Debug\netcoreapp3.1\L02_Infrastructure.AssemblyInfo.cs
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Infrastructure\obj\Debug\netcoreapp3.1\L02_Infrastructure.dll
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Infrastructure\obj\Debug\netcoreapp3.1\L02_Infrastructure.pdb

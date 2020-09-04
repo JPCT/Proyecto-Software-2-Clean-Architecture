@@ -27,3 +27,30 @@ C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Services\obj\Debug\net
 C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Services\obj\Debug\netcoreapp3.1\L01_Services.dll
 C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Services\obj\Debug\netcoreapp3.1\L01_Services.pdb
 C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Services\obj\Debug\netcoreapp3.1\L01_Services.genruntimeconfig.cache
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L01_Services.exe
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L01_Services.deps.json
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L01_Services.runtimeconfig.json
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L01_Services.runtimeconfig.dev.json
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L01_Services.dll
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L01_Services.pdb
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L01_Application.dll
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L01_Domain.dll
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L02_Persistence.dll
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L03_FakeDB.dll
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L01_Application.pdb
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L01_Domain.pdb
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L02_Persistence.pdb
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L03_FakeDB.pdb
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\obj\Debug\netcoreapp3.1\L01_Services.csprojAssemblyReference.cache
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\obj\Debug\netcoreapp3.1\staticwebassets\L01_Services.StaticWebAssets.Manifest.cache
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\obj\Debug\netcoreapp3.1\staticwebassets\L01_Services.StaticWebAssets.xml
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\obj\Debug\netcoreapp3.1\L01_Services.MvcApplicationPartsAssemblyInfo.cache
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\obj\Debug\netcoreapp3.1\L01_Services.AssemblyInfoInputs.cache
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\obj\Debug\netcoreapp3.1\L01_Services.AssemblyInfo.cs
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\obj\Debug\netcoreapp3.1\L01_Services.RazorTargetAssemblyInfo.cache
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\obj\Debug\netcoreapp3.1\L01_Services.csproj.CopyComplete
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\obj\Debug\netcoreapp3.1\L01_Services.dll
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\obj\Debug\netcoreapp3.1\L01_Services.pdb

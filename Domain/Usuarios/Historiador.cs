@@ -23,5 +23,10 @@ namespace L01_Domain.Usuarios
             this.sitiosHistoricos = sitiosHistoricos;
         }
 
+        public bool agregarSitio(string nombre, string descripcion, List<Multimedia> archivos, Posicion ubicacion)
+        {
+            return false;
+        }
+
     }
 }

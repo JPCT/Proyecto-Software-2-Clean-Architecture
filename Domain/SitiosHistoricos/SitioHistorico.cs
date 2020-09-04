@@ -8,13 +8,14 @@ namespace L01_Domain.SitiosHistoricos
 {
     public class SitioHistorico
     {
-        private string id { get; set; }
-        private string nombre { get; set; }
-        private string descripcion { get; set; }
-        private List<Multimedia> contenidoMultimedia { get; set; }
-        private float validez { get; set; }
-        private List<Historia> historias { get; set; }
-        private Posicion posicion { get; set; }
+        public string id { get; set; }
+        public string nombre { get; set; }
+        public string descripcion { get; set; }
+        public List<Multimedia> contenidoMultimedia { get; set; }
+        public float validez { get; set; }
+        public List<Historia> historias { get; set; }
+        public Posicion posicion { get; set; }
+
 
         public SitioHistorico(string id, string nombre, string descripcion, List<Multimedia> contenidoMultimedia, float validez, List<Historia> historias, Posicion posicion)
         {
@@ -26,5 +27,11 @@ namespace L01_Domain.SitiosHistoricos
             this.historias = historias;
             this.posicion = posicion;
         }
+
+        public SitioHistorico()
+        {
+
+        }
+
     }
 }

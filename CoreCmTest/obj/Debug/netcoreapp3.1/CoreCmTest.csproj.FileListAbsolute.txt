@@ -20,3 +20,23 @@ C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\CoreCmTest\obj\Debug\n
 C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\CoreCmTest\obj\Debug\netcoreapp3.1\CoreCmTest.dll
 C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\CoreCmTest\obj\Debug\netcoreapp3.1\CoreCmTest.pdb
 C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\CoreCmTest\obj\Debug\netcoreapp3.1\CoreCmTest.genruntimeconfig.cache
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\CoreCmTest\bin\Debug\netcoreapp3.1\CoreCmTest.exe
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\CoreCmTest\bin\Debug\netcoreapp3.1\CoreCmTest.deps.json
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\CoreCmTest\bin\Debug\netcoreapp3.1\CoreCmTest.runtimeconfig.json
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\CoreCmTest\bin\Debug\netcoreapp3.1\CoreCmTest.runtimeconfig.dev.json
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\CoreCmTest\bin\Debug\netcoreapp3.1\CoreCmTest.dll
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\CoreCmTest\bin\Debug\netcoreapp3.1\CoreCmTest.pdb
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\CoreCmTest\bin\Debug\netcoreapp3.1\L01_Application.dll
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\CoreCmTest\bin\Debug\netcoreapp3.1\L01_Domain.dll
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\CoreCmTest\bin\Debug\netcoreapp3.1\L02_Persistence.dll
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\CoreCmTest\bin\Debug\netcoreapp3.1\L03_FakeDB.dll
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\CoreCmTest\bin\Debug\netcoreapp3.1\L01_Application.pdb
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\CoreCmTest\bin\Debug\netcoreapp3.1\L01_Domain.pdb
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\CoreCmTest\bin\Debug\netcoreapp3.1\L03_FakeDB.pdb
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\CoreCmTest\bin\Debug\netcoreapp3.1\L02_Persistence.pdb
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\CoreCmTest\obj\Debug\netcoreapp3.1\CoreCmTest.csprojAssemblyReference.cache
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\CoreCmTest\obj\Debug\netcoreapp3.1\CoreCmTest.AssemblyInfoInputs.cache
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\CoreCmTest\obj\Debug\netcoreapp3.1\CoreCmTest.AssemblyInfo.cs
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\CoreCmTest\obj\Debug\netcoreapp3.1\CoreCmTest.csproj.CopyComplete
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\CoreCmTest\obj\Debug\netcoreapp3.1\CoreCmTest.dll
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\CoreCmTest\obj\Debug\netcoreapp3.1\CoreCmTest.pdb
