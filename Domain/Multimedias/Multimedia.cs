@@ -24,5 +24,9 @@ namespace L01_Domain.Multimedias
             this.tipo = tipo;
             this.formato = formato;
         }
+        public Multimedia()
+        {
+
+        }
     }
 }

@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CoreCmTest/1.0.0": {
+        "dependencies": {
+          "L01_Application": "1.0.0",
+          "L01_Domain": "1.0.0",
+          "L02_Persistence": "1.0.0",
+          "L03_FakeDB": "1.0.0"
+        },
+        "runtime": {
+          "CoreCmTest.dll": {}
+        }
+      },
+      "L01_Application/1.0.0": {
+        "dependencies": {
+          "L01_Domain": "1.0.0",
+          "L02_Persistence": "1.0.0"
+        },
+        "runtime": {
+          "L01_Application.dll": {}
+        }
+      },
+      "L01_Domain/1.0.0": {
+        "runtime": {
+          "L01_Domain.dll": {}
+        }
+      },
+      "L02_Persistence/1.0.0": {
+        "dependencies": {
+          "L01_Domain": "1.0.0",
+          "L03_FakeDB": "1.0.0"
+        },
+        "runtime": {
+          "L02_Persistence.dll": {}
+        }
+      },
+      "L03_FakeDB/1.0.0": {
+        "dependencies": {
+          "L01_Domain": "1.0.0"
+        },
+        "runtime": {
+          "L03_FakeDB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreCmTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "L01_Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "L01_Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "L02_Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "L03_FakeDB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

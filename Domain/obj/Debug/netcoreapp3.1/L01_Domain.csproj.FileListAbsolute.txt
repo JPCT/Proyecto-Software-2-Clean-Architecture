@@ -1,0 +1,17 @@
+C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Domain\bin\Debug\netcoreapp3.1\L01_Domain.deps.json
+C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Domain\bin\Debug\netcoreapp3.1\L01_Domain.dll
+C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Domain\bin\Debug\netcoreapp3.1\L01_Domain.pdb
+C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Domain\obj\Debug\netcoreapp3.1\L01_Domain.AssemblyInfoInputs.cache
+C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Domain\obj\Debug\netcoreapp3.1\L01_Domain.AssemblyInfo.cs
+C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Domain\obj\Debug\netcoreapp3.1\L01_Domain.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Domain\obj\Debug\netcoreapp3.1\L01_Domain.dll
+C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Domain\obj\Debug\netcoreapp3.1\L01_Domain.pdb
+C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Domain\obj\Debug\netcoreapp3.1\L01_Domain.csprojAssemblyReference.cache
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Domain\bin\Debug\netcoreapp3.1\L01_Domain.deps.json
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Domain\bin\Debug\netcoreapp3.1\L01_Domain.dll
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Domain\bin\Debug\netcoreapp3.1\L01_Domain.pdb
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Domain\obj\Debug\netcoreapp3.1\L01_Domain.csprojAssemblyReference.cache
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Domain\obj\Debug\netcoreapp3.1\L01_Domain.AssemblyInfoInputs.cache
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Domain\obj\Debug\netcoreapp3.1\L01_Domain.AssemblyInfo.cs
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Domain\obj\Debug\netcoreapp3.1\L01_Domain.dll
+E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Domain\obj\Debug\netcoreapp3.1\L01_Domain.pdb
