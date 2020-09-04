@@ -35,6 +35,7 @@ namespace L02_Persistence
         }
         public bool actualizarPerfilUsuario(Usuario usuario)
         {
+
             try
             {
                 List<AtributosUsuario> usuarios;
