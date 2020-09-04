@@ -1,5 +1,7 @@
-﻿using L01_Domain.Paciente;
+﻿using L01_Application.RegistrarHistoria;
+using L01_Domain.Paciente;
 using L02_Persistence;
+using L03_FakeDB;
 using System;
 
 namespace CoreCmTest
@@ -8,30 +10,22 @@ namespace CoreCmTest
     {
         static void Main(string[] args)
         {
-            /* Test the JSON generetion */
-            // FakeDB.TablaPacientes.InstanciarPacientes(10);
-            // String s = FakeDB.TablaPacientes.ToJSON();
-            //Console.WriteLine(s);
-
-            /* Test Persistence */
-            try
-            {
-
-                IPacienteCita p = RepositorioPacientes.GetPaciente(10008);
-
-                Console.WriteLine(System.Text.Json.JsonSerializer.Serialize(p));
-
-            }
-            catch(PacienteNoEncontradoException ex)
-            {
-                Console.WriteLine("ERROR-->"+ex.Message);
-            }
-            
-
-
            
 
-            Console.ReadLine();
+            /*Test crea historiaa
+             Se pasan los datos necesarios a la controladora para que empiece a ejecutar los metodos necesarios para
+            agregar la nueva historia*/
+            Ctrl_RegistrarHistoria controlarHistoria = new Ctrl_RegistrarHistoria();
+            DateTime fecha = new DateTime(2020, 08, 08);
+            controlarHistoria.registrarHistoria("La historia", fecha, "Que lindo dia", null, "15");
+
+
+            string historias = TablaHistoria.ToJSON();
+           
+
+            Console.WriteLine(historias);
+
+            
         }
     }
 }

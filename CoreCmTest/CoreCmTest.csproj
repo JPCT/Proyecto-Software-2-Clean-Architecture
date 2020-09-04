@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Application\L01_Application.csproj" />
     <ProjectReference Include="..\Domain\L01_Domain.csproj" />
     <ProjectReference Include="..\FakeDB\L03_FakeDB.csproj" />
     <ProjectReference Include="..\Persistence\L02_Persistence.csproj" />

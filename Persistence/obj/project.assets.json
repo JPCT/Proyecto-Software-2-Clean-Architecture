@@ -15,6 +15,9 @@
       "L03_FakeDB/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "L01_Domain": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/L03_FakeDB.dll": {}
         },

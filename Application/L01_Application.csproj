@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Domain\L01_Domain.csproj" />
     <ProjectReference Include="..\Persistence\L02_Persistence.csproj" />
   </ItemGroup>

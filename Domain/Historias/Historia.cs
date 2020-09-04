@@ -12,21 +12,26 @@ namespace L01_Domain.Historias
     public class Historia
     {
 
-        private string id { get; set; }
-        private string titulo { get; set; }
-        private DateTime fecha { get; set; }
-        private string descripcion { get; set; }
-        private List<Multimedia> fotos { get; set; }
-        private Usuario contador { get; set; }
+        public string id { get; set; }
+        public string titulo { get; set; }
+        public DateTime fecha { get; set; }
+        public string descripcion { get; set; }
+        public List<Multimedia> fotos { get; set; }
+        public string idContador { get; set; }
 
-        public Historia(string id, string titulo, DateTime fecha, string descripcion, List<Multimedia> fotos, Usuario contador)
+        public Historia(string id, string titulo, DateTime fecha, string descripcion, List<Multimedia> fotos, string idContador)
         {
             this.id = id;
             this.titulo = titulo;
             this.fecha = fecha;
             this.descripcion = descripcion;
             this.fotos = fotos;
-            this.contador = contador;
+            this.idContador = idContador;
+        }
+
+        public Historia()
+        {
+
         }
     }
 }
