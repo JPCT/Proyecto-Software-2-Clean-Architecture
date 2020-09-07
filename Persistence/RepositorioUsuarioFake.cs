@@ -9,6 +9,12 @@ namespace L02_Persistence
 {
     public class RepositorioUsuarioFake:IRepositorioUsuario
     {
+        /// <summary>
+        /// A partir de un id, busca en el repositorio de usuarios FAKE
+        /// un usuario que tenga el idUsuario y lo retorna 
+        /// </summary>
+        /// <param name="idUsuario">id del usuario a buscar</param>
+        /// <returns>Devuelve un objeto con el usuario correspondiente al id entrante</returns>
         public Usuario buscarUsuario(string idUsuario)
         {
             List<Usuario> usuarios;
@@ -33,6 +39,13 @@ namespace L02_Persistence
             }
             return usuario;
         }
+
+        /// <summary>
+        /// Este método actualiza la tabla de usuarios con 
+        /// los datos que ingresan en el objeto usuario
+        /// </summary>
+        /// <param name="usuario">usuario que tiene las modificaciones aplicadas</param>
+        /// <returns>devuelve un valor booleano que confirma si se realizó la modificación</returns>
         public bool actualizarPerfilUsuario(Usuario usuario)
         {
 

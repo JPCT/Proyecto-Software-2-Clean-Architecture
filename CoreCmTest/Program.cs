@@ -14,7 +14,7 @@ namespace CoreCmTest
     {
         static void Main(string[] args)
         {
-            
+            gestionarPerfil();
         }
 
         public static void registrarSitio()
@@ -57,7 +57,11 @@ namespace CoreCmTest
 
             Console.ReadLine();
         }
-
+        
+        /// <summary>
+        /// Este método ejecuta el caso de uso de GestionarPerfil en  donde se actualiza
+        /// los datos de un usuario
+        /// </summary>
         public static void gestionarPerfil()
         {
             /* Test the JSON generetion */
@@ -93,10 +97,14 @@ namespace CoreCmTest
 
                 //Realizar la actualizacion
                 bool confirmacion = controlGestionar.actualizarPerfil(idUsuario, "edit", "edit", usuario.fechaNacimiento, null, 0, "edit", "edit", "edit");
+                var options = new System.Text.Json.JsonSerializerOptions
+                {
+                    WriteIndented = true
+                };
 
                 //Verificar actualizacion
                 Usuario usu = controlGestionar.buscarUsuario(idUsuario);
-                Console.WriteLine(System.Text.Json.JsonSerializer.Serialize(usu));
+                Console.WriteLine(System.Text.Json.JsonSerializer.Serialize(usu,options));
             }
             catch (UsuarioException ex)
             {

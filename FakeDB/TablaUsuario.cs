@@ -8,7 +8,7 @@ using System.Text;
 namespace L03_FakeDB
 {
     public static class TablaUsuario
-    {
+    { 
         private static List<AtributosUsuario> usuarios = new List<AtributosUsuario>();
         public class AtributosUsuario
         {
@@ -44,6 +44,11 @@ namespace L03_FakeDB
             }
 
         }
+        /// <summary>
+        /// Agrega una cantidad específica de usuarios
+        /// creados aleatoriamente
+        /// </summary>
+        /// <param name="numeroUsuarios">cantidad de usuarios a instanciar</param>
         public static void InstanciarUsuarios(int numeroUsuarios)
         {
             for (int i = 0; i < numeroUsuarios; i++)
@@ -51,6 +56,12 @@ namespace L03_FakeDB
                 usuarios.Add(new AtributosUsuario(i));
             }
         }
+        /// <summary>
+        /// Devuelve un Json con los usuarios,
+        /// y en caso tal que no haya ninguno, instancia una 
+        /// cantidad por defecto
+        /// </summary>
+        /// <returns>Devuelve un string en forma de json de los usuarios</returns>
         public static String ToJSON()   
         {
             if (usuarios.Count == 0)
@@ -65,6 +76,10 @@ namespace L03_FakeDB
 
             return System.Text.Json.JsonSerializer.Serialize(usuarios, options);
         }
+        /// <summary>
+        /// Este metodo sirve para obtener la lista de Usuarios agregados
+        /// </summary>
+        /// <returns>Deuelve una lista de usuarios</returns>
         public static List<AtributosUsuario> getTablaUsuarios()
         {
             return usuarios;
