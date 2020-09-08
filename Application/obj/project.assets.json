@@ -65,19 +65,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\juanp\\.nuget\\packages\\": {}
+    "C:\\Users\\sebit\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Documents\\Universidad\\2020 - 1\\Ingenieria de Software 2\\Proyecto\\proyecto-del-curso-quarantinecoders\\Application\\L01_Application.csproj",
+      "projectUniqueName": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Application\\L01_Application.csproj",
       "projectName": "L01_Application",
-      "projectPath": "E:\\Documents\\Universidad\\2020 - 1\\Ingenieria de Software 2\\Proyecto\\proyecto-del-curso-quarantinecoders\\Application\\L01_Application.csproj",
-      "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
-      "outputPath": "E:\\Documents\\Universidad\\2020 - 1\\Ingenieria de Software 2\\Proyecto\\proyecto-del-curso-quarantinecoders\\Application\\obj\\",
+      "projectPath": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Application\\L01_Application.csproj",
+      "packagesPath": "C:\\Users\\sebit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\juanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sebit\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -90,11 +90,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\Documents\\Universidad\\2020 - 1\\Ingenieria de Software 2\\Proyecto\\proyecto-del-curso-quarantinecoders\\Domain\\L01_Domain.csproj": {
-              "projectPath": "E:\\Documents\\Universidad\\2020 - 1\\Ingenieria de Software 2\\Proyecto\\proyecto-del-curso-quarantinecoders\\Domain\\L01_Domain.csproj"
+            "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Domain\\L01_Domain.csproj": {
+              "projectPath": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Domain\\L01_Domain.csproj"
             },
-            "E:\\Documents\\Universidad\\2020 - 1\\Ingenieria de Software 2\\Proyecto\\proyecto-del-curso-quarantinecoders\\Persistence\\L02_Persistence.csproj": {
-              "projectPath": "E:\\Documents\\Universidad\\2020 - 1\\Ingenieria de Software 2\\Proyecto\\proyecto-del-curso-quarantinecoders\\Persistence\\L02_Persistence.csproj"
+            "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Persistence\\L02_Persistence.csproj": {
+              "projectPath": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Persistence\\L02_Persistence.csproj"
             }
           }
         }
@@ -122,7 +122,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

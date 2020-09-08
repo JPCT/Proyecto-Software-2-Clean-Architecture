@@ -1,27 +1,14 @@
-C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Persistence\bin\Debug\netcoreapp3.1\L02_Persistence.deps.json
-C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Persistence\bin\Debug\netcoreapp3.1\L02_Persistence.dll
-C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Persistence\bin\Debug\netcoreapp3.1\L02_Persistence.pdb
-C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Persistence\bin\Debug\netcoreapp3.1\L01_Domain.dll
-C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Persistence\bin\Debug\netcoreapp3.1\L03_FakeDB.dll
-C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Persistence\bin\Debug\netcoreapp3.1\L01_Domain.pdb
-C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Persistence\bin\Debug\netcoreapp3.1\L03_FakeDB.pdb
-C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Persistence\obj\Debug\netcoreapp3.1\L02_Persistence.csprojAssemblyReference.cache
-C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Persistence\obj\Debug\netcoreapp3.1\L02_Persistence.AssemblyInfoInputs.cache
-C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Persistence\obj\Debug\netcoreapp3.1\L02_Persistence.AssemblyInfo.cs
-C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Persistence\obj\Debug\netcoreapp3.1\L02_Persistence.csproj.CoreCompileInputs.cache
-C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Persistence\obj\Debug\netcoreapp3.1\L02_Persistence.csproj.CopyComplete
-C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Persistence\obj\Debug\netcoreapp3.1\L02_Persistence.dll
-C:\Users\juang\Desktop\Semestre 7\Ing Software 2\Proyecto\Persistence\obj\Debug\netcoreapp3.1\L02_Persistence.pdb
-E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Persistence\bin\Debug\netcoreapp3.1\L02_Persistence.deps.json
-E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Persistence\bin\Debug\netcoreapp3.1\L02_Persistence.dll
-E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Persistence\bin\Debug\netcoreapp3.1\L02_Persistence.pdb
-E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Persistence\bin\Debug\netcoreapp3.1\L01_Domain.dll
-E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Persistence\bin\Debug\netcoreapp3.1\L03_FakeDB.dll
-E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Persistence\bin\Debug\netcoreapp3.1\L01_Domain.pdb
-E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Persistence\bin\Debug\netcoreapp3.1\L03_FakeDB.pdb
-E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Persistence\obj\Debug\netcoreapp3.1\L02_Persistence.csprojAssemblyReference.cache
-E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Persistence\obj\Debug\netcoreapp3.1\L02_Persistence.AssemblyInfoInputs.cache
-E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Persistence\obj\Debug\netcoreapp3.1\L02_Persistence.AssemblyInfo.cs
-E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Persistence\obj\Debug\netcoreapp3.1\L02_Persistence.csproj.CopyComplete
-E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Persistence\obj\Debug\netcoreapp3.1\L02_Persistence.dll
-E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Persistence\obj\Debug\netcoreapp3.1\L02_Persistence.pdb
+C:\Users\sebit\Documents\U\Virtual\Software 2\Proyecto\Proyecto\Persistence\bin\Debug\netcoreapp3.1\L02_Persistence.deps.json
+C:\Users\sebit\Documents\U\Virtual\Software 2\Proyecto\Proyecto\Persistence\bin\Debug\netcoreapp3.1\L02_Persistence.dll
+C:\Users\sebit\Documents\U\Virtual\Software 2\Proyecto\Proyecto\Persistence\bin\Debug\netcoreapp3.1\L02_Persistence.pdb
+C:\Users\sebit\Documents\U\Virtual\Software 2\Proyecto\Proyecto\Persistence\bin\Debug\netcoreapp3.1\L01_Domain.dll
+C:\Users\sebit\Documents\U\Virtual\Software 2\Proyecto\Proyecto\Persistence\bin\Debug\netcoreapp3.1\L03_FakeDB.dll
+C:\Users\sebit\Documents\U\Virtual\Software 2\Proyecto\Proyecto\Persistence\bin\Debug\netcoreapp3.1\L01_Domain.pdb
+C:\Users\sebit\Documents\U\Virtual\Software 2\Proyecto\Proyecto\Persistence\bin\Debug\netcoreapp3.1\L03_FakeDB.pdb
+C:\Users\sebit\Documents\U\Virtual\Software 2\Proyecto\Proyecto\Persistence\obj\Debug\netcoreapp3.1\L02_Persistence.csprojAssemblyReference.cache
+C:\Users\sebit\Documents\U\Virtual\Software 2\Proyecto\Proyecto\Persistence\obj\Debug\netcoreapp3.1\L02_Persistence.AssemblyInfoInputs.cache
+C:\Users\sebit\Documents\U\Virtual\Software 2\Proyecto\Proyecto\Persistence\obj\Debug\netcoreapp3.1\L02_Persistence.AssemblyInfo.cs
+C:\Users\sebit\Documents\U\Virtual\Software 2\Proyecto\Proyecto\Persistence\obj\Debug\netcoreapp3.1\L02_Persistence.csproj.CoreCompileInputs.cache
+C:\Users\sebit\Documents\U\Virtual\Software 2\Proyecto\Proyecto\Persistence\obj\Debug\netcoreapp3.1\L02_Persistence.csproj.CopyComplete
+C:\Users\sebit\Documents\U\Virtual\Software 2\Proyecto\Proyecto\Persistence\obj\Debug\netcoreapp3.1\L02_Persistence.dll
+C:\Users\sebit\Documents\U\Virtual\Software 2\Proyecto\Proyecto\Persistence\obj\Debug\netcoreapp3.1\L02_Persistence.pdb

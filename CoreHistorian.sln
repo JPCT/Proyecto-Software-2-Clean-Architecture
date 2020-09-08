@@ -15,7 +15,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L02_Infrastructure", "Infra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L03_FakeDB", "FakeDB\L03_FakeDB.csproj", "{79A8DDE3-59B7-4776-84F4-770890B939EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreCmTest", "CoreCmTest\CoreCmTest.csproj", "{E4AD778F-3D13-4218-8014-35D0E300A468}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreCmTest", "CoreCmTest\CoreCmTest.csproj", "{E4AD778F-3D13-4218-8014-35D0E300A468}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B84AE92A-8BED-401D-B53E-FDDDB5C1F04D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

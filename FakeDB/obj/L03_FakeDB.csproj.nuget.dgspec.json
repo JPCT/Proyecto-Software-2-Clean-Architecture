@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Documents\\Universidad\\2020 - 1\\Ingenieria de Software 2\\Proyecto\\proyecto-del-curso-quarantinecoders\\FakeDB\\L03_FakeDB.csproj": {}
+    "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\FakeDB\\L03_FakeDB.csproj": {}
   },
   "projects": {
-    "E:\\Documents\\Universidad\\2020 - 1\\Ingenieria de Software 2\\Proyecto\\proyecto-del-curso-quarantinecoders\\Domain\\L01_Domain.csproj": {
+    "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Domain\\L01_Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Documents\\Universidad\\2020 - 1\\Ingenieria de Software 2\\Proyecto\\proyecto-del-curso-quarantinecoders\\Domain\\L01_Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Domain\\L01_Domain.csproj",
         "projectName": "L01_Domain",
-        "projectPath": "E:\\Documents\\Universidad\\2020 - 1\\Ingenieria de Software 2\\Proyecto\\proyecto-del-curso-quarantinecoders\\Domain\\L01_Domain.csproj",
-        "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
-        "outputPath": "E:\\Documents\\Universidad\\2020 - 1\\Ingenieria de Software 2\\Proyecto\\proyecto-del-curso-quarantinecoders\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Domain\\L01_Domain.csproj",
+        "packagesPath": "C:\\Users\\sebit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\juanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sebit\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,21 +52,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Documents\\Universidad\\2020 - 1\\Ingenieria de Software 2\\Proyecto\\proyecto-del-curso-quarantinecoders\\FakeDB\\L03_FakeDB.csproj": {
+    "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\FakeDB\\L03_FakeDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Documents\\Universidad\\2020 - 1\\Ingenieria de Software 2\\Proyecto\\proyecto-del-curso-quarantinecoders\\FakeDB\\L03_FakeDB.csproj",
+        "projectUniqueName": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\FakeDB\\L03_FakeDB.csproj",
         "projectName": "L03_FakeDB",
-        "projectPath": "E:\\Documents\\Universidad\\2020 - 1\\Ingenieria de Software 2\\Proyecto\\proyecto-del-curso-quarantinecoders\\FakeDB\\L03_FakeDB.csproj",
-        "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
-        "outputPath": "E:\\Documents\\Universidad\\2020 - 1\\Ingenieria de Software 2\\Proyecto\\proyecto-del-curso-quarantinecoders\\FakeDB\\obj\\",
+        "projectPath": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\FakeDB\\L03_FakeDB.csproj",
+        "packagesPath": "C:\\Users\\sebit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\FakeDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\juanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sebit\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Documents\\Universidad\\2020 - 1\\Ingenieria de Software 2\\Proyecto\\proyecto-del-curso-quarantinecoders\\Domain\\L01_Domain.csproj": {
-                "projectPath": "E:\\Documents\\Universidad\\2020 - 1\\Ingenieria de Software 2\\Proyecto\\proyecto-del-curso-quarantinecoders\\Domain\\L01_Domain.csproj"
+              "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Domain\\L01_Domain.csproj": {
+                "projectPath": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Domain\\L01_Domain.csproj"
               }
             }
           }
@@ -108,7 +108,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
