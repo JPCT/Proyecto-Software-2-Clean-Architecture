@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\sebit\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Infrastructure\\L02_Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Infrastructure\\L02_Infrastructure.csproj",
       "projectName": "L02_Infrastructure",
-      "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Infrastructure\\L02_Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Infrastructure\\L02_Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\sebit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sebit\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

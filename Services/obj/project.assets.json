@@ -682,19 +682,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\sebit\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Services\\L01_Services.csproj",
+      "projectUniqueName": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Services\\L01_Services.csproj",
       "projectName": "L01_Services",
-      "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Services\\L01_Services.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Services\\obj\\",
+      "projectPath": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Services\\L01_Services.csproj",
+      "packagesPath": "C:\\Users\\sebit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sebit\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -707,8 +707,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Usuario\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Application\\L01_Application.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\proyecto-del-curso-quarantinecoders\\Application\\L01_Application.csproj"
+            "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Application\\L01_Application.csproj": {
+              "projectPath": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Application\\L01_Application.csproj"
             }
           }
         }
@@ -739,7 +739,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

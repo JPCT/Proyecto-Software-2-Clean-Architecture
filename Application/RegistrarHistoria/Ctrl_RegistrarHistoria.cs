@@ -33,5 +33,13 @@ namespace L01_Application.RegistrarHistoria
         {
             return true;
         }
+
+        public Historia buscarHistoria(string idHistoria)
+        {
+            IRepositorioHistoria repoHistoria = FabricaRepositorioHistorias.CrearRepositorioHistorias();
+            Historia sitio = repoHistoria.buscarHistoria(idHistoria);
+            return sitio;
+
+        }
     }
 }
