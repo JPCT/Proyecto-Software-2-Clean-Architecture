@@ -60,5 +60,15 @@ namespace L02_Persistence
             }
             return true;
         }
+
+        public List<Usuario> getUsuarios()
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool guardarUsuario(Usuario usuario)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -15,3 +15,12 @@ E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del
 E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Infrastructure\obj\Debug\netcoreapp3.1\L02_Infrastructure.AssemblyInfo.cs
 E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Infrastructure\obj\Debug\netcoreapp3.1\L02_Infrastructure.dll
 E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Infrastructure\obj\Debug\netcoreapp3.1\L02_Infrastructure.pdb
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Infrastructure\bin\Debug\netcoreapp3.1\L02_Infrastructure.deps.json
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Infrastructure\bin\Debug\netcoreapp3.1\L02_Infrastructure.dll
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Infrastructure\bin\Debug\netcoreapp3.1\L02_Infrastructure.pdb
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Infrastructure\obj\Debug\netcoreapp3.1\L02_Infrastructure.csprojAssemblyReference.cache
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Infrastructure\obj\Debug\netcoreapp3.1\L02_Infrastructure.AssemblyInfoInputs.cache
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Infrastructure\obj\Debug\netcoreapp3.1\L02_Infrastructure.AssemblyInfo.cs
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Infrastructure\obj\Debug\netcoreapp3.1\L02_Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Infrastructure\obj\Debug\netcoreapp3.1\L02_Infrastructure.dll
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Infrastructure\obj\Debug\netcoreapp3.1\L02_Infrastructure.pdb
