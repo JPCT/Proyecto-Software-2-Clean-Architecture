@@ -16,3 +16,12 @@ C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Domain\obj\Debug\netc
 C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Domain\obj\Debug\netcoreapp3.1\L01_Domain.csproj.CoreCompileInputs.cache
 C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Domain\obj\Debug\netcoreapp3.1\L01_Domain.dll
 C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Domain\obj\Debug\netcoreapp3.1\L01_Domain.pdb
+C:\Users\Usuario\Source\Repos\proyecto-del-curso-quarantinecoders\Domain\bin\Debug\netcoreapp3.1\L01_Domain.deps.json
+C:\Users\Usuario\Source\Repos\proyecto-del-curso-quarantinecoders\Domain\bin\Debug\netcoreapp3.1\L01_Domain.dll
+C:\Users\Usuario\Source\Repos\proyecto-del-curso-quarantinecoders\Domain\bin\Debug\netcoreapp3.1\L01_Domain.pdb
+C:\Users\Usuario\Source\Repos\proyecto-del-curso-quarantinecoders\Domain\obj\Debug\netcoreapp3.1\L01_Domain.csprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\proyecto-del-curso-quarantinecoders\Domain\obj\Debug\netcoreapp3.1\L01_Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\proyecto-del-curso-quarantinecoders\Domain\obj\Debug\netcoreapp3.1\L01_Domain.AssemblyInfo.cs
+C:\Users\Usuario\Source\Repos\proyecto-del-curso-quarantinecoders\Domain\obj\Debug\netcoreapp3.1\L01_Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\proyecto-del-curso-quarantinecoders\Domain\obj\Debug\netcoreapp3.1\L01_Domain.dll
+C:\Users\Usuario\Source\Repos\proyecto-del-curso-quarantinecoders\Domain\obj\Debug\netcoreapp3.1\L01_Domain.pdb

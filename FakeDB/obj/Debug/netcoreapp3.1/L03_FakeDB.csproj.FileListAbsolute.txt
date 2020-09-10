@@ -22,3 +22,15 @@ C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\FakeDB\obj\Debug\netc
 C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\FakeDB\obj\Debug\netcoreapp3.1\L03_FakeDB.csproj.CopyComplete
 C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\FakeDB\obj\Debug\netcoreapp3.1\L03_FakeDB.dll
 C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\FakeDB\obj\Debug\netcoreapp3.1\L03_FakeDB.pdb
+C:\Users\Usuario\Source\Repos\proyecto-del-curso-quarantinecoders\FakeDB\bin\Debug\netcoreapp3.1\L03_FakeDB.deps.json
+C:\Users\Usuario\Source\Repos\proyecto-del-curso-quarantinecoders\FakeDB\bin\Debug\netcoreapp3.1\L03_FakeDB.dll
+C:\Users\Usuario\Source\Repos\proyecto-del-curso-quarantinecoders\FakeDB\bin\Debug\netcoreapp3.1\L03_FakeDB.pdb
+C:\Users\Usuario\Source\Repos\proyecto-del-curso-quarantinecoders\FakeDB\bin\Debug\netcoreapp3.1\L01_Domain.dll
+C:\Users\Usuario\Source\Repos\proyecto-del-curso-quarantinecoders\FakeDB\bin\Debug\netcoreapp3.1\L01_Domain.pdb
+C:\Users\Usuario\Source\Repos\proyecto-del-curso-quarantinecoders\FakeDB\obj\Debug\netcoreapp3.1\L03_FakeDB.csprojAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\proyecto-del-curso-quarantinecoders\FakeDB\obj\Debug\netcoreapp3.1\L03_FakeDB.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\proyecto-del-curso-quarantinecoders\FakeDB\obj\Debug\netcoreapp3.1\L03_FakeDB.AssemblyInfo.cs
+C:\Users\Usuario\Source\Repos\proyecto-del-curso-quarantinecoders\FakeDB\obj\Debug\netcoreapp3.1\L03_FakeDB.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\proyecto-del-curso-quarantinecoders\FakeDB\obj\Debug\netcoreapp3.1\L03_FakeDB.csproj.CopyComplete
+C:\Users\Usuario\Source\Repos\proyecto-del-curso-quarantinecoders\FakeDB\obj\Debug\netcoreapp3.1\L03_FakeDB.dll
+C:\Users\Usuario\Source\Repos\proyecto-del-curso-quarantinecoders\FakeDB\obj\Debug\netcoreapp3.1\L03_FakeDB.pdb
