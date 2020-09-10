@@ -27,7 +27,7 @@ namespace L01_Application.GestionarPerfil
 
             try
             {
-                IRepositorioUsuario repoU = FabricaRepositoriosUsuarios.CrearRepositorioUsuarios();
+                IRepositorioUsuario repoU = FabricaRepositoriosUsuarios.CrearRepositorioUsuarios("fake");
                 repoU.actualizarPerfilUsuario(usuario);
             }
             catch(ActualizarUsuarioException ex)
@@ -42,7 +42,7 @@ namespace L01_Application.GestionarPerfil
             {
                 if (idUsuario is null)
                     return null;
-                IRepositorioUsuario repoU = FabricaRepositoriosUsuarios.CrearRepositorioUsuarios();
+                IRepositorioUsuario repoU = FabricaRepositoriosUsuarios.CrearRepositorioUsuarios("fake");
                 Usuario usuario = repoU.buscarUsuario(idUsuario);
                 return usuario;
             }

@@ -22,28 +22,29 @@ namespace L01_Application.Autenticacion
         {
 
             GoogleUserOutputData usuario = null;
+            HttpClient client = new HttpClient();
+            string urlProfile;
+            HttpResponseMessage output;
 
             try
             {
-                HttpClient client = new HttpClient();
-                var urlProfile = "https://www.googleapis.com/oauth2/v1/userinfo?access_token=" + accessToken;
+                urlProfile = "https://www.googleapis.com/oauth2/v1/userinfo?access_token=" + accessToken;
 
                 client.CancelPendingRequests();
-                HttpResponseMessage output = client.GetAsync(urlProfile).Result;
+                output = client.GetAsync(urlProfile).Result;
 
-                if (output.IsSuccessStatusCode)
-                {
-                    string outputData = output.Content.ReadAsStringAsync().Result;
-                    usuario = JsonConvert.DeserializeObject<GoogleUserOutputData>(outputData);
-
-                }
-                else
-                {
-                    throw new TokenInvalidoException("\n" + "El token ingresado es invalido" + "\n");
-
-                }
             }
             catch (Exception)
+            {
+                throw new TokenInvalidoException("\n" + "No se pudo establecer conexión con Google" + "\n");
+            }
+
+            if (output.IsSuccessStatusCode)
+            {
+                string outputData = output.Content.ReadAsStringAsync().Result;
+                usuario = JsonConvert.DeserializeObject<GoogleUserOutputData>(outputData);
+            }
+            else
             {
                 throw new TokenInvalidoException("\n" + "El token ingresado es invalido" + "\n");
             }
@@ -98,7 +99,7 @@ namespace L01_Application.Autenticacion
 
             Usuario nuevoUsuario = new Usuario(usuario.id, nombre, apellido, fechaNacimiento, fotoPerfiL, sexo, usuario.email, ciudad, pais, rol);
 
-            IRepositorioUsuario repositorioUsuarios = FabricaRepositoriosUsuarios.CrearRepositorioUsuarios();
+            IRepositorioUsuario repositorioUsuarios = FabricaRepositoriosUsuarios.CrearRepositorioUsuarios("json");
 
             repositorioUsuarios.guardarUsuario(nuevoUsuario);
 
@@ -131,14 +132,14 @@ namespace L01_Application.Autenticacion
             Usuario usuario = null;
             if (idUsuario is null)
                 return null;
-            IRepositorioUsuario repoU = FabricaRepositoriosUsuarios.CrearRepositorioUsuarios();
+            IRepositorioUsuario repoU = FabricaRepositoriosUsuarios.CrearRepositorioUsuarios("json");
             usuario = repoU.buscarUsuario(idUsuario);
             return usuario;
         }
 
         public List<Usuario> getUsuarios()
         {
-            IRepositorioUsuario repoU = FabricaRepositoriosUsuarios.CrearRepositorioUsuarios();
+            IRepositorioUsuario repoU = FabricaRepositoriosUsuarios.CrearRepositorioUsuarios("json");
             return repoU.getUsuarios();
         }
 

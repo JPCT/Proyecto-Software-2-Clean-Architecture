@@ -7,10 +7,10 @@ namespace L02_Persistence
 {
     public class FabricaRepositoriosUsuarios
     {
-        public static IRepositorioUsuario CrearRepositorioUsuarios()
+        public static IRepositorioUsuario CrearRepositorioUsuarios(string repo)
         {
-            var repo = ConfigurationManager.AppSettings["repositoryUsuarios"];
-            //var repo = "fake";
+            //var repo = ConfigurationManager.AppSettings["repositoryUsuarios"];
+            //var repo = "json";
 
             return repo switch
             {

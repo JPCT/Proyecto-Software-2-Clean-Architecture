@@ -16,7 +16,7 @@ namespace CoreCmTest
     {
         static void Main(string[] args)
         {
-
+            Autenticar();
         }
 
         public static void registrarSitio()
@@ -175,6 +175,9 @@ namespace CoreCmTest
 
             }
             catch (UsuarioException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }catch(TokenInvalidoException ex)
             {
                 Console.WriteLine(ex.Message);
             }

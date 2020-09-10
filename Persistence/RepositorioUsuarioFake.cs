@@ -1,8 +1,10 @@
 ﻿using L01_Domain.Usuarios;
+using L03_FakeDB;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json;
 using static L03_FakeDB.TablaUsuario;
 
 namespace L02_Persistence
@@ -13,17 +15,9 @@ namespace L02_Persistence
         {
             List<Usuario> usuarios;
 
-            String jsonString = L03_FakeDB.TablaUsuario.ToJSON();
-            Console.WriteLine(jsonString);
+            String jsonString = TablaUsuario.ToJSON();
 
-            /*
-             * Prueba de Serialización para un Usuario
-             */
-            //jsonString = "[{\"id\": \"10009\",\"nombre\": \"NombreUsuario 9\",\"apellido\": \"ApellidosUsuario 9\",\"fechaNacimiento\": \"2020-09-01T21:07:24.7884632-05:00\",\"fotoPerfil\": {\"id\":\"123\",\"nombreArchivo\":\"123\",\"tamano\":\"123\",\"url\":\"123\",\"tipo\":\"123\",\"formato\":\"123\" },\"tipoSexo\": 0,\"correoElectronico\": \"usuario9@historian.com\",\"ciudad\": \"ciudadUsuario 9\",\"pais\": \"paisUsuario 9\",\"rol\": 3}]";
-            //jsonString = "[{\"id\": \"10009\",\"nombre\": \"NombreUsuario 9\",\"apellido\": \"ApellidosUsuario 9\",\"correoElectronico\": \"usuario9@historian.com\",\"ciudad\": \"ciudadUsuario 9\",\"pais\": \"paisUsuario 9\"}]";
-            //Console.WriteLine(jsonString);
-
-            usuarios = System.Text.Json.JsonSerializer.Deserialize<List<Usuario>>(jsonString);
+            usuarios = JsonSerializer.Deserialize<List<Usuario>>(jsonString);
 
             Usuario usuario = usuarios.FirstOrDefault(u => u.id == idUsuario);
 
@@ -38,7 +32,7 @@ namespace L02_Persistence
             try
             {
                 List<AtributosUsuario> usuarios;
-                usuarios = L03_FakeDB.TablaUsuario.getTablaUsuarios();
+                usuarios = TablaUsuario.getTablaUsuarios();
 
                 for(int i = 0; i < usuarios.Count; i++)
                 {
