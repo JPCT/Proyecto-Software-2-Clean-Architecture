@@ -9,18 +9,19 @@ namespace L01_Domain.Usuarios
 {
     public class Historiador : Usuario
     {
-        private List<Multimedia> certificado { get; set; }
-        private String descripcionExperiencia { get; set; }
-        private bool autorizado { get; set; }
-        private List<SitioHistorico> sitiosHistoricos { get; set; }
 
-        public Historiador(string id, string nombre, string apellido, DateTime fechaNacimiento, Multimedia fotoPerfil, TipoSexo tipoSexo, string correoElectronico, string ciudad, string pais, TipoRol rol,List<Multimedia> certificado, string descripcionExperiencia, bool autorizado, List<SitioHistorico> sitiosHistoricos) : 
-            base(id, nombre, apellido, fechaNacimiento, fotoPerfil, tipoSexo,correoElectronico, ciudad,  pais, rol)
+        public List<Multimedia> certificado { get; set; }
+        public String descripcionExperiencia { get; set; }
+        public bool autorizado { get; set; }
+        public List<SitioHistorico> sitiosHistoricos { get; set; }
+
+        public Historiador(string id, string nombre, string apellido, DateTime fechaNacimiento, Multimedia fotoPerfil, TipoSexo tipoSexo, string correoElectronico, string ciudad, string pais, TipoRol rol, List<Multimedia> certificado, string descripcionExperiencia) :
+            base(id, nombre, apellido, fechaNacimiento, fotoPerfil, tipoSexo, correoElectronico, ciudad, pais, rol)
         {
             this.certificado = certificado;
             this.descripcionExperiencia = descripcionExperiencia;
-            this.autorizado = autorizado;
-            this.sitiosHistoricos = sitiosHistoricos;
+            this.autorizado = false;
+            this.sitiosHistoricos = new List<SitioHistorico>();
         }
 
         public bool agregarSitio(string nombre, string descripcion, List<Multimedia> archivos, Posicion ubicacion)

@@ -9,6 +9,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Google.Apis.Auth" Version="1.49.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Domain\L01_Domain.csproj" />
     <ProjectReference Include="..\Persistence\L02_Persistence.csproj" />
   </ItemGroup>

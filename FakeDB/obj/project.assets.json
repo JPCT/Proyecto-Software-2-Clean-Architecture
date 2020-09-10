@@ -27,20 +27,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sebit\\.nuget\\packages\\": {}
+    "C:\\Users\\juanp\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\FakeDB\\L03_FakeDB.csproj",
+      "projectUniqueName": "C:\\Users\\juanp\\Source\\Repos\\proyectoFinal-quarantinecoders\\FakeDB\\L03_FakeDB.csproj",
       "projectName": "L03_FakeDB",
-      "projectPath": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\FakeDB\\L03_FakeDB.csproj",
-      "packagesPath": "C:\\Users\\sebit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\FakeDB\\obj\\",
+      "projectPath": "C:\\Users\\juanp\\Source\\Repos\\proyectoFinal-quarantinecoders\\FakeDB\\L03_FakeDB.csproj",
+      "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\juanp\\Source\\Repos\\proyectoFinal-quarantinecoders\\FakeDB\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\sebit\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\juanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -52,8 +59,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Domain\\L01_Domain.csproj": {
-              "projectPath": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Domain\\L01_Domain.csproj"
+            "C:\\Users\\juanp\\Source\\Repos\\proyectoFinal-quarantinecoders\\Domain\\L01_Domain.csproj": {
+              "projectPath": "C:\\Users\\juanp\\Source\\Repos\\proyectoFinal-quarantinecoders\\Domain\\L01_Domain.csproj"
             }
           }
         }
@@ -81,7 +88,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

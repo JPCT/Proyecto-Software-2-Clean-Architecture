@@ -54,3 +54,40 @@ E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del
 E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\obj\Debug\netcoreapp3.1\L01_Services.csproj.CopyComplete
 E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\obj\Debug\netcoreapp3.1\L01_Services.dll
 E:\Documents\Universidad\2020 - 1\Ingenieria de Software 2\Proyecto\proyecto-del-curso-quarantinecoders\Services\obj\Debug\netcoreapp3.1\L01_Services.pdb
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L01_Services.exe
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L01_Services.deps.json
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L01_Services.runtimeconfig.json
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L01_Services.runtimeconfig.dev.json
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L01_Services.dll
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L01_Services.pdb
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L01_Application.dll
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L01_Domain.dll
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L02_Persistence.dll
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L03_FakeDB.dll
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L01_Application.pdb
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L01_Domain.pdb
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L02_Persistence.pdb
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\bin\Debug\netcoreapp3.1\L03_FakeDB.pdb
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\obj\Debug\netcoreapp3.1\L01_Services.csprojAssemblyReference.cache
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\obj\Debug\netcoreapp3.1\L01_Services.AssemblyInfoInputs.cache
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\obj\Debug\netcoreapp3.1\L01_Services.AssemblyInfo.cs
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\obj\Debug\netcoreapp3.1\L01_Services.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\obj\Debug\netcoreapp3.1\L01_Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\obj\Debug\netcoreapp3.1\L01_Services.RazorTargetAssemblyInfo.cache
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\obj\Debug\netcoreapp3.1\L01_Services.csproj.CopyComplete
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\obj\Debug\netcoreapp3.1\staticwebassets\L01_Services.StaticWebAssets.Manifest.cache
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\obj\Debug\netcoreapp3.1\staticwebassets\L01_Services.StaticWebAssets.xml
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\obj\Debug\netcoreapp3.1\L01_Services.dll
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\obj\Debug\netcoreapp3.1\L01_Services.pdb
+C:\Users\juanp\Source\Repos\proyectoFinal-quarantinecoders\Services\obj\Debug\netcoreapp3.1\L01_Services.genruntimeconfig.cache

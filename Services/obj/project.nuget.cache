@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "j6Dp6s64xfFqWtNX13sONsDhyn2itJfOsG46WcBoM7AUPsKI/MHs1QwDDeKILh0pbdqTRhXinH32gDSmQM8jBg==",
+  "dgSpecHash": "XLnPPmqVmCwGDbj5NdPMm7Uv+1WkVEYZkZjeGEfIpauMtffjFcbBdroj1f0LpvnXxxTVIJRIwn9PlMFJmmQGLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sebit\\Documents\\U\\Virtual\\Software 2\\Proyecto\\Proyecto\\Services\\L01_Services.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\juanp\\Source\\Repos\\proyectoFinal-quarantinecoders\\Services\\L01_Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juanp\\.nuget\\packages\\google.apis\\1.49.0\\google.apis.1.49.0.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\google.apis.auth\\1.49.0\\google.apis.auth.1.49.0.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\google.apis.core\\1.49.0\\google.apis.core.1.49.0.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
