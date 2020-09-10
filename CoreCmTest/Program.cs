@@ -8,7 +8,6 @@ using L01_Application.RegistrarSitio;
 using L01_Domain.SitiosHistoricos;
 using System.Globalization;
 using L01_Application.Autenticacion;
-
 namespace CoreCmTest
 {
     class Program
@@ -16,9 +15,95 @@ namespace CoreCmTest
         static void Main(string[] args)
         {
 
-            Autenticar();
-
         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         public static void Autenticar()
         {
